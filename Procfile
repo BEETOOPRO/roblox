@@ -1,0 +1,2 @@
+Procfile
+worker: sniper.bat
